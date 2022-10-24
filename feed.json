@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://lauviah0622.github.io/publii-test",
+    "feed_url": "https://lauviah0622.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "test"
+    },
+    "items": [
+        {
+            "id": "https://lauviah0622.github.io/publii-test/testsetset.html",
+            "url": "https://lauviah0622.github.io/publii-test/testsetset.html",
+            "title": "testsetset",
+            "summary": "tsetset testse tstestset tsetse",
+            "content_html": "<p> </p>\n<p>tsetset</p>\n<p>testse</p>\n<p>tstestset</p>\n<p>tsetse</p>",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-25T03:44:07+08:00",
+            "date_modified": "2022-10-25T03:44:07+08:00"
+        }
+    ]
+}
